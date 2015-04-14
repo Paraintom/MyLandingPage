@@ -469,6 +469,7 @@ ol.type li a.active { font-weight: 700; }
 }
 #testimonial .item{
     display: block;
+    padding: 35px;
     width: 100%;
     height: auto;
 }
